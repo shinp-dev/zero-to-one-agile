@@ -103,6 +103,7 @@ AIによって実装が速くなっても、次の判断は消えません。
 - [既習のウォーターフォール用語からScrumを見る](reference/waterfall_to_scrum_map.md)
 - [Scrum Quick Reference](reference/scrum_quick_reference.md)
 - [Scrum公式要素と補助プラクティス](reference/scrum_and_practices.md)
+- [一次資料と監査基準](reference/sources.md)
 
 ## 公式資料
 
