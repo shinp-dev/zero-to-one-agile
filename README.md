@@ -18,6 +18,8 @@
 
 スクラムでも計画・設計・実装・テストを行います。違うのは、**全部を一度だけ順番に行うのではなく、価値を出せる小さな単位で繰り返す**ところです。
 
+既に習った「要件・WBS・進捗会議・受入」などから見たい場合は、最初に [既習のウォーターフォール用語からScrumを見る](reference/waterfall_to_scrum_map.md) を開いてください。
+
 ## 学習順序
 
 | 章 | テーマ | ゴール |
@@ -96,6 +98,12 @@ AIによって実装が速くなっても、次の判断は消えません。
 - [基礎理解チェック](understanding_checks/00_scrum_basics.md)
 - [状況判断チェック](understanding_checks/01_scenario_checks.md)
 
+## リファレンス
+
+- [既習のウォーターフォール用語からScrumを見る](reference/waterfall_to_scrum_map.md)
+- [Scrum Quick Reference](reference/scrum_quick_reference.md)
+- [Scrum公式要素と補助プラクティス](reference/scrum_and_practices.md)
+
 ## 公式資料
 
 - Agile Manifesto 日本語版: https://agilemanifesto.org/iso/ja/manifesto.html
@@ -105,4 +113,4 @@ AIによって実装が速くなっても、次の判断は消えません。
 
 ## License
 
-MIT
+[MIT License](LICENSE)
